@@ -16,8 +16,6 @@ Aula 4 ->
     - O que é uma carteira? Como ela funciona?
 (Espaço para perguntas)
 
-
-
 - Parte Prática - 30 minutos
     - Criando a primeira carteira, de forma segura
     - Recebendo o primeiro token não-fungível (POAP)
